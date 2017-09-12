@@ -1,4 +1,4 @@
-package me.florian7843.guessingame.main;
+package me.florian7843.guessinggame.main;
 
 import java.io.BufferedReader;
 import java.io.IOException;
