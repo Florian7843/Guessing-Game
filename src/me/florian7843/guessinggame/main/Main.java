@@ -15,8 +15,6 @@ import java.util.Random;
 
 /**
  * Created by florian_7843 on 11.09.2017.
- * Server: DocsMc.tk
- * Ts: ts.docsmc.tk
  */
 public class Main {
 
