@@ -6,8 +6,6 @@ import static me.florian7843.guessinggame.main.Main.*;
 
 /**
  * Created by florian_7843 on 13.09.2017.
- * Server: DocsMc.tk
- * Ts: ts.docsmc.tk
  */
 public class TYPEDefault {
 
